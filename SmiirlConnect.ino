@@ -29,7 +29,7 @@ int oldVal, newVal, oldRem, newRem;
 
 bool values_received = false;
 
-const char *apiUrl = "https://graph.instagram.com/17841453413880469?fields=followers_count&access_token=IGQWRNSU1VU2otRTNaVXNYUm9oTUtwcUdQZAml1R3g3NmtBak5MNXR0bEVLQ3NFdFBORHM1SjVNTmprcDAycm5IWFVtemFXenlyYk02eDhrYjRTa0ZA1S2NOU1pUSDhYS2VCYnZANQkQ4YWlCSmFSSmlMTndacWZA4MzAZD";
+const char *apiUrl = "https://graph.instagram.com/......"; // Use your own API here
 
 const char index_html[] PROGMEM = R"rawliteral(
 <!DOCTYPE html>
